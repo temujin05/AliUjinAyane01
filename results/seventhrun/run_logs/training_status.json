@@ -1,0 +1,29 @@
+{
+    "Agent Controller": {
+        "checkpoints": [
+            {
+                "steps": 408975,
+                "file_path": "results\\seventhrun\\Agent Controller\\Agent Controller-408975.onnx",
+                "reward": 1.9342668882908265,
+                "creation_time": 1732457364.287189,
+                "auxillary_file_paths": [
+                    "results\\seventhrun\\Agent Controller\\Agent Controller-408975.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 408975,
+            "file_path": "results\\seventhrun\\Agent Controller.onnx",
+            "reward": 1.9342668882908265,
+            "creation_time": 1732457364.287189,
+            "auxillary_file_paths": [
+                "results\\seventhrun\\Agent Controller\\Agent Controller-408975.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
